@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from "react";
 import { Section } from "./components/Section";
 import { SectionHeader } from "./components/SectionHeader";
-import { PixelGame } from "./components/PixelGame";
+// import { PixelGame } from "./components/PixelGame";
 
 const SECTIONS = [
   { id: "home", label: "home" },
