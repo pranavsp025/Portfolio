@@ -92,7 +92,7 @@ export default function App() {
           <div className="flex items-center gap-2 text-sm">
             <span className="inline-block h-2 w-2 rounded-full bg-primary shadow-[0_0_12px_var(--primary)]" />
             <span className="font-semibold tracking-wider">pranav.p</span>
-            <span className="text-muted-foreground">/ front-end engineer</span>
+            <span className="text-muted-foreground">/ associate software engineer</span>
           </div>
           <nav className="hidden gap-6 text-xs uppercase tracking-widest text-muted-foreground md:flex">
             {SECTIONS.map((s, i) => (
